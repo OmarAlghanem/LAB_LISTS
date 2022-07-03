@@ -1,6 +1,3 @@
-from hashlib import new
-
-
 my_list = [5, 4, 17, 19, 30, 2, 7, 10, 45]
 
 # Q1
